@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+.main_title,
+.header_title { font-family: 'Poiret One', cursive; }
+
+.main_item_,
+.main_item_end{ font-family: 'Nanum Pen Script', cursive; }
+
+.item_ {
+    color:#4f953b;
+    text-decoration:none;
+}
+
+.menu-icon {
+    font-family: 'Poiret One', cursive;
+}
